@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Moodify</string>
+
+    <string-array name="mood_entries">
+        <item>Happy</item>
+        <item>Chill</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Focused</item>
+    </string-array>
+
+    <!-- Spotify developer console →  Client ID -->
+    <string name="spotify_client_id">2f9ab44cd1fd48f880b997d8d2c3d5b8</string>
+
+    <!-- REQUIRED: Redirect URI used in manifest + login flow -->
+    <string name="spotify_redirect_uri">moodify://callback</string>
+</resources>
